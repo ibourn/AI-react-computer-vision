@@ -21,7 +21,7 @@ Yarn package manager
 1. Clone the repository:
 
    ```
-   git clone <repository-url>
+   git clone https://github.com/ibourn/AI-react-computer-vision.git
    cd AI-react-computer-vision
    ```
 
