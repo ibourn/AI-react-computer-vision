@@ -22,7 +22,7 @@ Yarn package manager
 
    ```
    git clone <repository-url>
-   cd react-computer-vision
+   cd AI-react-computer-vision
    ```
 
 2. Install dependencies using npm:
